@@ -39,13 +39,13 @@ The script performs the following tasks:
 
 5. Visualize Results: Plot experimental data along with the fitted model to visualize the fermentation kinetics.
 
-![results](images\monod.png)
+![results](images/monod.png)
 
 6. Evaluate Model Performance: Evaluate the model's performance by comparing observed and estimated values, calculating R² scores, and checking normality of residuals.
 
 7. Residual Analysis: Conduct residual analysis through histograms to assess the model's appropriateness and identify potential issues.
 
-![results](images\residues_monod.png)
+![results](images/residues_monod.png)
 
 ## Usage
 1. Ensure the experimental data is stored in a CSV file named "data.csv" with columns representing time, yeast concentration, substrate concentration, and ethanol concentration.
